@@ -27,16 +27,16 @@
             "pages": [
               "inside/philosophy",
               "inside/design-principles",
-              "inside/development-approach"
+              "inside/development-approach",
+              "inside/our-team",
+              "inside/roadmap-philosophy"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Culture & Ethics",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "culture-and-ethics/community-guidelines",
+              "culture-and-ethics/moderation-philosophy"
             ]
           },
           {
