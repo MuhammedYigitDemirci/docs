@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Core Values",
         "groups": [
           {
             "group": "Introduction",
@@ -23,10 +23,11 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Inside Clannect",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "inside/philosophy",
+              "inside/design-principles",
+              "inside/development-approach"
             ]
           },
           {
