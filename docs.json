@@ -123,6 +123,15 @@
   },
   "description": "Welcome to Clannect Documentation, everything you are looking for about Clannect is here!",
   "background": {
-    "decoration": "grid"
+    "decoration": "windows"
+  },
+  "errors": {
+    "404": {
+      "title": "Looks like you are lost...",
+      "description": "The page you are looking for does not exists, did you mean one of these?"
+    }
+  },
+  "search": {
+    "prompt": "Any questions about Clannect..?"
   }
 }
