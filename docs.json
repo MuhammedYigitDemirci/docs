@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/ClannectLogo.png",
+    "dark": "/logo/ClannectLogo.png"
   },
   "navbar": {
     "links": [
