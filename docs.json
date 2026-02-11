@@ -88,10 +88,7 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/ClannectLogo.png",
-    "dark": "/logo/ClannectLogo.png"
-  },
+  "logo": "/logo/ClannectLogo.png",
   "navbar": {
     "links": [
       {
@@ -123,5 +120,9 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "description": "Welcome to Clannect Documentation, everything you are looking for about Clannect is here!",
+  "background": {
+    "decoration": "grid"
   }
 }
