@@ -106,6 +106,17 @@
     }
   },
   "search": {
-    "prompt": "Any questions about Clannect..?"
+    "prompt": "Search in Documentation..."
+  },
+  "appearance": {
+    "default": "system"
+  },
+  "fonts": {
+    "heading": {
+      "family": "Inter"
+    }
+  },
+  "banner": {
+    "content": "Play. Connect. Belong."
   }
 }
