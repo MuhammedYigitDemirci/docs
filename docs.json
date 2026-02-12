@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Clannect Documentation",
+  "name": "Clannect Support Center",
   "colors": {
     "primary": "#fe4133",
     "light": "#fe4133",
@@ -95,7 +95,7 @@
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   },
-  "description": "Welcome to Clannect Documentation, everything you are looking for about Clannect is here!",
+  "description": "Welcome to our Support Center, you can read documents, check guidelines, policies, blogs and contact with our team or Clannect Support AI from this website!",
   "background": {
     "decoration": "windows"
   },
