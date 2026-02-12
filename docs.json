@@ -118,5 +118,11 @@
   },
   "banner": {
     "content": "Documentation page is still under development. We’re continuously adding new content."
+  },
+
+  "settings": {
+    "customScripts": [
+      "/featurebase.js"
+    ]
   }
 }
