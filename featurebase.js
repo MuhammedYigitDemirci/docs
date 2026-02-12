@@ -15,9 +15,7 @@
 
 Featurebase("boot", {
   appId: "698df5c653f344e7ed78253c",
-  email: "user@example.com",
-  userId: "12345",
   createdAt: new Date().toISOString(),
-  theme: "dark",
+  theme: "light",
   language: "en"
 });
