@@ -118,7 +118,7 @@
   },
   "banner": {
     "content": "Support Center is still under development. We’re continuously adding new content & improving our chat widget.",
-    "dismissible": true
+    "dismissible": false
   },
 
   "settings": {
