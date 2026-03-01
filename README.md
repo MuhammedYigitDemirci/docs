@@ -124,7 +124,7 @@ For internal questions regarding documentation workflow, contact the repository 
 
 For user-facing support inquiries, direct users to:
 
-[https://support.clannect.com](https://support.clannect.com)
+**support@clannect.com**
 
 ---
 
