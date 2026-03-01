@@ -1,55 +1,132 @@
-# Mintlify Starter Kit
+# Clannect Support Center Documentation
 
-Use the starter kit to get your docs deployed and ready to customize.
+This repository contains the **official documentation source** for the Clannect Support Center.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+All content published on:
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+**[https://support.clannect.com](https://support.clannect.com)**
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+is generated from the Markdown files stored in this repository.
 
-## AI-assisted writing
+---
 
-Set up your AI coding tool to work with Mintlify:
+## Purpose of This Repository
 
-```bash
-npx skills add https://mintlify.com/docs
+This repository exists to:
+
+* Maintain structured and version-controlled documentation
+* Enable collaborative editing via pull requests
+* Ensure consistency and quality across all support content
+* Provide a scalable documentation workflow
+
+This is the single source of truth for all Support Center articles.
+
+---
+
+## How It Works
+
+Clannect Support Center is powered by Mintlify and deployed automatically from this repository.
+
+Workflow:
+
+1. Documentation is written or updated in Markdown.
+2. Changes are submitted via Pull Request.
+3. PR is reviewed and approved.
+4. Once merged into `main`, Mintlify automatically deploys the update.
+
+There is no direct editing in the Mintlify dashboard.
+
+All changes must go through GitHub.
+
+---
+
+## Repository Structure
+
+Example structure:
+
+```
+/docs
+  /getting-started
+  /account
+  /cloin
+  /moderation
+mint.json
 ```
 
-This command installs Mintlify's documentation skill for your configured AI tools like Claude Code, Cursor, Windsurf, and others. The skill includes component reference, writing standards, and workflow guidance.
+* All documentation files are located inside `/docs`
+* Configuration files (such as `mint.json`) must not be modified unless necessary
 
-See the [AI tools guides](/ai-tools) for tool-specific setup.
+---
 
-## Development
+## Contribution Guidelines
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
-
-```
-npm i -g mint
-```
-
-Run the following command at the root of your documentation, where your `docs.json` is located:
+All contributors must follow the documentation standards defined in:
 
 ```
-mint dev
+/docs/CONTRIBUTING.md
 ```
 
-View your local preview at `http://localhost:3000`.
+Key principles:
 
-## Publishing changes
+* One H1 per article
+* Clear step-by-step structure
+* Professional and neutral tone
+* No marketing language
+* No duplication of content
 
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
+Pull Requests that do not follow the guidelines may be rejected.
 
-## Need help?
+---
 
-### Troubleshooting
+## Pull Request Rules
 
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
+* Do not push directly to `main`
+* All changes require a Pull Request
+* At least one approval is required before merging
+* Use proper PR title format:
 
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
+```
+[DOC] Add article about Cloin rewards
+[UPDATE] Improve onboarding guide
+[FIX] Correct broken link
+```
+
+---
+
+## Roles & Responsibilities
+
+Support Team:
+
+* Create and update documentation
+* Maintain clarity and accuracy
+* Follow formatting standards
+
+Repository Maintainers:
+
+* Review Pull Requests
+* Ensure structural consistency
+* Protect documentation integrity
+
+---
+
+## Important Notes
+
+* This repository is strictly for documentation.
+* Do not use it for roadmap discussions.
+* Do not commit experimental drafts directly to `main`.
+* Avoid large structural changes without discussion.
+
+---
+
+## Contact
+
+For internal questions regarding documentation workflow, contact the repository maintainers.
+
+For user-facing support inquiries, direct users to:
+
+[https://support.clannect.com](https://support.clannect.com)
+
+---
+
+Clannect
+Official Documentation Repository
