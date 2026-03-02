@@ -54,7 +54,8 @@
             "pages": [
               "policies/terms-of-service",
               "policies/privacy-policy",
-              "policies/refund-policy"
+              "policies/refund-policy",
+              "policies/pricing"
             ]
           }
         ]
