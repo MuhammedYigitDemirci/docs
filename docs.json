@@ -52,7 +52,7 @@
           {
             "group": "All Policies",
             "pages": [
-              "policies/terms-of-service"
+              "policies/terms-of-service.mdx"
             ]
           }
         ]
