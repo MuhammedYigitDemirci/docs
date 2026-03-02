@@ -102,9 +102,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "website": "https://clannect.com",
+      "youtube": "https://www.youtube.com/@ClannectOfficial",
+      "instagram": "https://www.instagram.com/getclannect/",
+      "discord": "https://discord.gg/TFEhtZgjJd"
     }
   },
   "description": "Welcome to our Support Center, you can read documents, check guidelines, policies, blogs and contact with our team or Clannect Support AI from this website!",
@@ -129,8 +130,8 @@
     }
   },
   "banner": {
-    "content": "Support Center is still under development. We’re continuously adding new content & improving our chat widget.",
-    "dismissible": false
+    "content": "Support Center is still under development. We’re continuously adding new content! If you have any questions, contact with support@clannect.com",
+    "dismissible": true
   },
 
   "settings": {
