@@ -44,6 +44,18 @@
           }
           
         ]
+      },
+
+      {
+        "tab": "Policies",
+        "groups": [
+          {
+            "group": "All Policies",
+            "pages": [
+              "policies/philosophy"
+            ]
+          }
+        ]
       }
       
     ],
