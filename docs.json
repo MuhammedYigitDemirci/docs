@@ -69,11 +69,6 @@
           "anchor": "Status",
           "href": "https://status.clannect.com",
           "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
         }
       ]
     }
@@ -83,13 +78,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@clannect.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Visit Clannect",
+      "href": "https://app.clannect.com"
     }
   },
   "contextual": {
